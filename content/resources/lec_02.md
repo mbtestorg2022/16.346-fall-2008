@@ -5,6 +5,7 @@ description: Lecture notes on the two body problem, the explicit form of the vel
   of orbit, and basic two-body relations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/dbce406df8d13e052f9229880ed96c02_lec_02.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: The Two Body Problem Continued
 uid: dbce406d-f8d1-3e05-2f92-29880ed96c02

@@ -7,6 +7,7 @@ description: "Lecture notes on John Wallis\u2019 hypergeometric series, hypergeo
   \ and continued fractions versus power series."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/49ded43faed5c184effdf8b27d6422b9_lec_14.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Hypergeometric Functions and Continued Fractions
 uid: 49ded43f-aed5-c184-effd-f8b27d6422b9

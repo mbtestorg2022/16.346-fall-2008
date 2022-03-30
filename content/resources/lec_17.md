@@ -5,6 +5,7 @@ description: Lecture notes on the Battin-Baughan algorithm for the BVP, developi
   convergence of the new algorithm.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/db57282293708f42ec59a1108c05a43e_lec_17.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: The Battin-Vaughan algorithm for the BVP
 uid: db572822-9370-8f42-ec59-a1108c05a43e

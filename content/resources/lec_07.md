@@ -8,6 +8,7 @@ description: Lecture notes on optimum orbital transfer, velocity requirements fo
   planets.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/7d1da2ed4c4b8b541f4751bece4dd9ec_lec_07.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Optimum Orbital Transfer
 uid: 7d1da2ed-4c4b-8b54-1f47-51bece4dd9ec

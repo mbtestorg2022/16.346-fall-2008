@@ -5,6 +5,7 @@ description: "Lecture notes on the disturbing function, generating function for 
   \ polynomials, and Laplace\u2019s sphere of in\uFB02uence."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/d753d9c944d9bffb13c169f0f1c73d69_lec_29.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: The Disturbing Function and Legendre Polynomials
 uid: d753d9c9-44d9-bffb-13c1-69f0f1c73d69

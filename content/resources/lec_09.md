@@ -6,6 +6,7 @@ description: "Lecture notes on the theorem of Johann Heinrich Lambert, developin
   \ terms of the semimajor axis."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/325aba5c735d9f622fb7116985b5ab19_lec_09.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Lambert's Theorem and the Lagrange Time Equation
 uid: 325aba5c-735d-9f62-2fb7-116985b5ab19

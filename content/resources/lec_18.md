@@ -6,6 +6,7 @@ description: "Lecture notes on preliminary orbit determination using Taylor seri
   s method, and Lagrange\u2019s interpolation formulas."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/2e5e96a3ee7e5be8f42c4653fd9395ca_lec_18.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Preliminary Orbit Determination Using Taylor Series
 uid: 2e5e96a3-ee7e-5be8-f42c-4653fd9395ca

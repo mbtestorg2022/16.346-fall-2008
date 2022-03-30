@@ -9,6 +9,7 @@ description: "Lecture notes on the Runge-Kutta method of numerical integration, 
   m's fifth order algorithm, and R-K-N sixth order algorithm.\r\n"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/5180b58ee82654aa5a341d146ae81a53_lec_33.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Runge-Kutta Method of Numerical Integration
 uid: 5180b58e-e826-54aa-5a34-1d146ae81a53

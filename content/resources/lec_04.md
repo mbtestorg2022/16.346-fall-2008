@@ -8,6 +8,7 @@ description: "Lecture notes on the initial-value problem, polar coordinates and 
   \ and construction of a parabola and its tangents."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-346-astrodynamics-fall-2008/87431d1d0bfd2488fe402067e0afcb59_lec_04.pdf
 file_type: application/pdf
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: The Initial-Value Problem
 uid: 87431d1d-0bfd-2488-fe40-2067e0afcb59
